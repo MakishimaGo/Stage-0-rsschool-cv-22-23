@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/MakishimaGo/rsschool-cv
