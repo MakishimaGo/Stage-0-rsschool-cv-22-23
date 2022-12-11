@@ -12,7 +12,7 @@ I love reading books. I love self development. I have extensive experience in de
 HTML\CSS
 
 ## CODE EXAMPLE ##
-This code is from one of my pet project
+This code is from one of my petproject
 ```
 <div id="header">
     	<div class="logo"><a href="#"><img src='images/logo.jpg' top="10px" width="282px" height="46px" ></a></div>
