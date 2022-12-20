@@ -55,7 +55,6 @@ h2 {
 main {
     display: flex;
     background-color: rgb(248, 255, 252);
-
     text-align: left;
     justify-content: space-between;
 }
@@ -66,6 +65,7 @@ nav {
 }
 
 nav ul {
+    font-size: 70%;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -150,7 +150,6 @@ footer a {
 footer img {
     height: 90%;
     margin: 0 50px;
-
 }
 
 footer h2 {
